@@ -1,0 +1,1 @@
+var x=document.getElementById("contain");function myFunction(){document.getElementById("nav").classList.toggle("open"),x.classList.toggle("change")}x.addEventListener("click",myFunction);
