@@ -231,12 +231,14 @@ header {
 }
 
 .header-menu__item {
+  position: relative;
+  margin: 0 55px 0 0;
+}
+.header-menu__item a {
   font-family: "Bebas Neue", cursive;
   font-size: 20px;
   line-height: 21px;
   color: #474747;
-  position: relative;
-  margin: 0 55px 0 0;
 }
 .header-menu__item:last-child {
   margin: 0;
