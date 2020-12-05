@@ -502,7 +502,7 @@ body.lock {
 .portfolio__row_top {
   display: flex;
   justify-content: center;
-  background: url(../../images/bg_title.png) 0 9.5px no-repeat;
+  background: url(../images/bg_title.png) 0 9.5px no-repeat;
   margin: 0 0 44px 0;
 }
 
